@@ -24,7 +24,7 @@ Hello world , this is my profile!!!
 ---
 
 ## 🛠 Languages and Tools
-- **Programming:** Python, SQL, HTML  
+- **Programming:** Python, SQL, HTML, CSS  
 - **Data & Analytics:** Power BI, Excel    
 - **Version Control:** GitHub  
 - **Collaboration:** Requirement Gathering, AI Agents, Team Collaboration  

@@ -62,5 +62,11 @@ Hello world , this is my profile!!!
 
 ## 🔥 My Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=nutanhiremath&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Nutan2727&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nutan2727&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutan2727&layout=compact&theme=radical" height="180" alt="Top languages" />
+</div>
+
